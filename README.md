@@ -4,7 +4,8 @@ script to download YouTube audio and convert it to MP3s for older devices (like 
 1. Put YouTube links in `links.txt` (one per line).
 2. Run the script:
    ```bash
-   ./scripts/process_links.sh
+   chmod +x ./process_links.sh
+   ./process_links.sh
    ```
 
 ### where does it go
